@@ -1,12 +1,46 @@
 {
   "users": [
     {
-      "email": "olivier@mail.com",
-      "password": "$2a$10$euuyiRBI3uGBskqBb68GfubPoa9V09qE.dw6A.krtvw1oiUX618NO",
       "firstname": "Olivier",
       "lastname": "Monge",
-      "age": 32,
+      "email": "olivier@mail.com",
+      "password": "$2a$10$euuyiRBI3uGBskqBb68GfubPoa9V09qE.dw6A.krtvw1oiUX618NO",
       "id": 1
+    },
+    {
+      "email": "user@email.com",
+      "password": "$2a$10$kNXg0x6HCmlqR3/H2BfYc.QJJGNPyrth94VMLhwnwTWDEaPs3Oq5W",
+      "firstname": "Jason",
+      "lastname": "Cameron",
+      "id": 2
+    },
+    {
+      "email": "pwalker@gmail.com",
+      "password": "$2a$10$.pdeyGvB.9c1YRCeMYhvye6HH2EDZ4qed9El3G4el9KsMXHfGrfxO",
+      "firstname": "paul",
+      "lastname": "walker",
+      "id": 3
+    },
+    {
+      "email": "jasoncameron246@gmail.com",
+      "password": "$2a$10$7AbdUSNcsYJGpcu6/8jJDuBYNoeugBjYJnOVNwsHa0I4Qhtmz7oMO",
+      "firstname": "Jason",
+      "lastname": "Cameron",
+      "id": 4
+    },
+    {
+      "email": "paulW45@gmail.com",
+      "password": "$2a$10$5D5bSEJBqifIy5w57p4ubeTH1MFTisJumjhEKUMe./n/at2gPdKnq",
+      "firstname": "paul",
+      "lastname": "wall",
+      "id": 5
+    },
+    {
+      "email": "pirateKing@gmail.com",
+      "password": "$2a$10$iz3J34a1p3O96c8/mhKaEOXE2TqsHh6ZHpZWyOfalpb.Sv8FTsQZG",
+      "firstname": "jack",
+      "lastname": "sparrow",
+      "id": 6
     }
   ]
 }
